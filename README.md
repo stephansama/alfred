@@ -1,5 +1,9 @@
 # Alfred configuration
 
+## How to use this repo
+
+download the repo and run the `collect.sh` script in order to generate a workflows.zip
+
 ## Workflows that I have made
 
 - [Alfred Kaomoji](https://github.com/stephansama/alfred-kaomoji)
